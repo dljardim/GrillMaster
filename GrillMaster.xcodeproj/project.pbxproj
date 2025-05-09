@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		33976A8E2DB3F32700684CBC /* _devnotes.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33976A8D2DB3F31C00684CBC /* _devnotes.txt */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		33976A8D2DB3F31C00684CBC /* _devnotes.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = _devnotes.txt; sourceTree = "<group>"; };
 		3398A4F02DAE997B0014D594 /* GrillMaster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GrillMaster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +37,7 @@
 		3398A4E72DAE997B0014D594 = {
 			isa = PBXGroup;
 			children = (
+				33976A8D2DB3F31C00684CBC /* _devnotes.txt */,
 				3398A4F22DAE997B0014D594 /* GrillMaster */,
 				3398A4F12DAE997B0014D594 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33976A8E2DB3F32700684CBC /* _devnotes.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

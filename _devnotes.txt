@@ -1,0 +1,13 @@
+4/19/2025 - todays goal is to lay the foundation of the Grill Master SwiftUI application.
+
+1) Functionality on SwiftUI
+
+These topics relate to the functionality I am trying to create in this application.
+My goal today, is to create a list on these
+Functionality and
+
+Idea in 1 sentence
+“An app that allows pet owners to browse grooming services and book an at-home grooming appointment with a mobile grooming van.”
+
+Define the problem:
+"

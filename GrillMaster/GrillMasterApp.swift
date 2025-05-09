@@ -11,7 +11,8 @@ import SwiftUI
 struct GrillMasterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            DragToyView()
         }
     }
 }
